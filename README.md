@@ -1,2 +1,3 @@
-# Vegetation-monitoring
-Satellite Data for vegetation prediction
+# Satellite Data for Vegetation Monitoring in the Kalahari
+
+
