@@ -1,1 +1,1 @@
-[blog_Satellite Data for Vegetation Monitoring in the Kalahari.pdf](https://github.com/varitgupta/Vegetation-monitoring/files/7339860/blog_Satellite.Data.for.Vegetation.Monitoring.in.the.Kalahari.pdf)
+#Satellite Data for Vegetation Monitoring in the Kalahari
