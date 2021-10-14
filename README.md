@@ -1,3 +1,4 @@
+# Techlabs Aachen
 # Satellite Data for Vegetation Monitoring in the Kalahari
 The ecosystems around the globe have been disrupted due to various factors, like increasing
 populations, extinction of animals and climate change which has drastically affected the vegetation
